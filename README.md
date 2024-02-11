@@ -1,1 +1,1 @@
-# 60-days-of-code-Data-science
+# 60-days-code-challenge-of-Data-science
